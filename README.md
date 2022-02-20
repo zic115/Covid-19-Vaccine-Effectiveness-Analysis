@@ -1,4 +1,4 @@
-This is the final project for COGS108 @UCSD.
+This is the final project for COGS108 Data Science in Practice @UCSD.
 
 As this group project spanned the entire quarter, it was splited into several phases by some check points. When a certain check point was reached, the corresponding file could no longer be edited and was submitted for any feedbacks possible.
 - `ProjectProposal_group025.ipynb`
