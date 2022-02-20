@@ -6,6 +6,6 @@ As this group project spanned the entire quarter, it was splited into several ph
 - `EDACheckpoint_group025.ipynb`
 - `FinalProject_group025.ipynb`
 
-To see the entire report, you can go to `FinalProject_group025.ipynb`.
+To see the final report, you can go to `FinalProject_group025.ipynb`.
 
 Thank you :)
